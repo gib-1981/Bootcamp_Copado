@@ -175,6 +175,14 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Cost__c</fullName>
+        <label>Cost</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <type>Currency</type>
+    </fields>
+    <fields>
         <fullName>Description</fullName>
     </fields>
     <fields>
