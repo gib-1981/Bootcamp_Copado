@@ -265,6 +265,12 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Test__c</fullName>
+        <defaultValue>false</defaultValue>
+        <label>Test</label>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
         <type>Picklist</type>
     </fields>
