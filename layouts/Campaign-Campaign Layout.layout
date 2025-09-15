@@ -26,11 +26,15 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Test__c</field>
+                <field>TESTER_1__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Cost__c</field>
+                <field>TESTER_2__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>TESTER_3__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
