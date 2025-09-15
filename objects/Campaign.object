@@ -265,6 +265,33 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>TESTER_1__c</fullName>
+        <externalId>false</externalId>
+        <label>TESTER 1</label>
+        <length>10</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>TESTER_2__c</fullName>
+        <externalId>false</externalId>
+        <label>TESTER 2</label>
+        <length>20</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>TESTER_3__c</fullName>
+        <externalId>false</externalId>
+        <label>TESTER 3</label>
+        <length>30</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
         <type>Picklist</type>
     </fields>
