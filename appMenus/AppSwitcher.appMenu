@@ -81,15 +81,7 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__LightningInstrumentation</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>standard__SalesforceCMS</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__OnlineSales</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
@@ -163,5 +155,9 @@
     <appMenuItems>
         <name>copado__Copado_Plan_Lightning</name>
         <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Copado_DevOps_N_A</name>
+        <type>ConnectedApp</type>
     </appMenuItems>
 </AppMenu>
