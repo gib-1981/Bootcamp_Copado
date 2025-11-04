@@ -270,6 +270,13 @@
         <fullName>IsReductionOrder</fullName>
     </fields>
     <fields>
+        <fullName>NEW__c</fullName>
+        <label>NEW</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <type>Time</type>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
         <trackHistory>true</trackHistory>
     </fields>
