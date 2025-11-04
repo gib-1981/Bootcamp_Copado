@@ -383,6 +383,13 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>HELLO__c</fullName>
+        <label>HELLO</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Time</type>
+    </fields>
+    <fields>
         <fullName>HasOptedOutOfEmail</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
