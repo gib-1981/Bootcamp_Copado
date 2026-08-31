@@ -164,4 +164,24 @@
         <name>copado__Copado_Plan_Lightning</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>DEVHUB_b15atpnaxm7phbj0luex</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Copado_DevOps_N_A</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Salesforce_DevTools</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>tbid_digital_salesforce_com</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>copadovsm__Value_Stream_Maps</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
