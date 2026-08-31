@@ -5,6 +5,10 @@
         <value>ユーザーストーリー</value>
     </caseValues>
     <fieldSets>
+        <label><!-- VSM --></label>
+        <name>VSM</name>
+    </fieldSets>
+    <fieldSets>
         <label>バンドル</label>
         <name>copado__Bundle</name>
     </fieldSets>

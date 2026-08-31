@@ -171,6 +171,12 @@
         <fullName>BudgetedCost</fullName>
     </fields>
     <fields>
+        <fullName>CLOCK__c</fullName>
+        <label>CLOCK</label>
+        <required>false</required>
+        <type>Time</type>
+    </fields>
+    <fields>
         <fullName>CampaignMemberRecordTypeId</fullName>
         <type>Lookup</type>
     </fields>
