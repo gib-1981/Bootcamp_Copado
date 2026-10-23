@@ -208,6 +208,16 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>GBP__c</fullName>
+        <label>GBP</label>
+        <precision>4</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Currency</type>
+    </fields>
+    <fields>
         <fullName>IqScore</fullName>
         <trackTrending>false</trackTrending>
     </fields>
